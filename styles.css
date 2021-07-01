@@ -183,7 +183,7 @@ footer p, footer a {
   display: none;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 910px) {
   .greenbutton {
     margin: 14px;
     margin-left: 0px;
@@ -200,6 +200,15 @@ footer p, footer a {
   .hom {
     display: none;
   }
+}
+
+@media (max-width: 750px) {
+  main {
+    padding: 12vh 15vw 30vh 15vw;
+  }
+}
+
+@media (max-width: 650px) { 
   #hometext {
     font-size: 2.5em;
   }
