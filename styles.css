@@ -260,11 +260,13 @@ footer p, footer a {
     margin: 14px;
     margin-left: 0px;
     display: block;
+    font-size: 3em;
   }
   .transparentbutton {
     margin: 14px;
     margin-left: 0px;
     display: block;
+    font-size: 3em;
   }
   .som {
     display: block;
