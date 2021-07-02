@@ -235,6 +235,7 @@ footer p, footer a {
   }
   .info {
     padding: 2em;
+    width: 90%;
   }
   .info p {
     font-size: 3em;
