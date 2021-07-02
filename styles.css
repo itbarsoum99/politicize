@@ -233,15 +233,22 @@ footer p, footer a {
   p, a, li {
     font-size: 3em;
   }
+  .info {
+    padding: 2em;
+  }
   .info p {
     font-size: 3em;
   }
   .info img {
     height: 5em;
+    padding: 5px;
   }
   nav a {
     font-size: 3em;
     padding: 36px;
+  }
+  footer p, footer a {
+    font-size: 3em;
   }
   .greenbutton {
     margin: 14px;
