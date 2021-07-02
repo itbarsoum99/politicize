@@ -215,7 +215,25 @@ footer p, footer a {
 }
 
 @media (pointer: coarse) {
-.greenbutton {
+  .mainhead {
+    font-size: 6em;
+  }
+  .firsthead {
+    font-size: 5em;
+  }
+  main {
+    padding: 12vh 5vw 30vh 5vw;
+  }
+  p, a, li {
+    font-size: 3em;
+  }
+  .info p {
+    font-size: 3em;
+  }
+  .info img {
+    height: 3em;
+  }
+  .greenbutton {
     margin: 14px;
     margin-left: 0px;
     display: block;
