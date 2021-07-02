@@ -237,7 +237,11 @@ footer p, footer a {
     font-size: 3em;
   }
   .info img {
-    height: 3em;
+    height: 5em;
+  }
+  nav a {
+    font-size: 3em;
+    padding: 36px;
   }
   .greenbutton {
     margin: 14px;
