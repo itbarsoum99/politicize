@@ -221,6 +221,12 @@ footer p, footer a {
   .firsthead {
     font-size: 5em;
   }
+  h3 {
+    font-size: 4em;
+  }
+  h4 {
+    font-size: 3.5em;
+  }
   main {
     padding: 12vh 5vw 30vh 5vw;
   }
