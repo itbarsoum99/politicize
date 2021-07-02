@@ -233,6 +233,9 @@ footer p, footer a {
   p {
     font-size: 3em;
   }
+  a {
+    font-size: 1em;
+  }
   .info {
     width: 90%;
   }
