@@ -230,7 +230,7 @@ footer p, footer a {
   main {
     padding: 12vh 5vw 30vh 5vw;
   }
-  p, a, li {
+  p {
     font-size: 3em;
   }
   .info {
